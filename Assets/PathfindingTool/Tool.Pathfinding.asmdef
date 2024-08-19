@@ -1,0 +1,17 @@
+{
+    "name": "Tool.Pathfinding",
+    "rootNamespace": "",
+    "references": [
+        "GUID:278c788c82b52164c980f02b66ee1924",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
