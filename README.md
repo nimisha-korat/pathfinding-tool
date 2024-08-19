@@ -4,6 +4,9 @@
 
 This Unity project demonstrates a pathfinding tool utilizing the A* algorithm, implemented in C#. The tool is designed to efficiently find the shortest path between two points on a grid, making it suitable for various game development applications.
 
+![Pathfinding Tool Example](Assets/Screenshot.png)
+
+
 ## Features
 
 - **A* Algorithm**: Utilizes the A* algorithm to find the optimal path between start and end points.
